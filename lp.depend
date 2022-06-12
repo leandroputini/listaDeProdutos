@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1655068227 source:c:\users\augusto\desktop\lp.c\lp\lp2.c
+	<stdio.h>
+	<stdlib.h>
+	"proje.c"
+
+1655068073 c:\users\augusto\desktop\lp.c\lp\proje.c
+
+1655068073 source:c:\users\augusto\desktop\lp.c\lp\proje.c
+
+1655069210 source:c:\users\augusto\desktop\lp.c\lp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"proje.c"
+
